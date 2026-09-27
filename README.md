@@ -101,3 +101,8 @@ House-Price-Prediction/
 │
 ├── README.md
 └── requirements.txt
+
+
+## Live Demo
+
+[Try the House Price Prediction App](https://house-price-prediction-cbhuhbafuvy4yq2ryzhzht.streamlit.app/~/+/#house-price-prediction-and-classification)
