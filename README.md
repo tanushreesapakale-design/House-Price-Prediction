@@ -38,8 +38,63 @@ The project follows a complete machine learning workflow including data preproce
 - Scikit-learn
 - Joblib
 - Jupyter Notebook
+- Streamlit
+- Git & GitHub
 
 ---
+
+## 📊 Dataset
+
+The dataset contains information about houses, including:
+
+- Number of bedrooms
+- Number of bathrooms
+- Living area
+- Lot area
+- Floors
+- Waterfront
+- View
+- Condition
+- Grade
+- Basement area
+- Year built
+- Renovation year
+- Location coordinates
+- Nearby house living area
+- Nearby house lot area
+- Sale date
+- House price
+
+The dataset was obtained from Kaggle. The original dataset license and attribution are preserved in the project.
+
+------
+
+## 🔄 Machine Learning Workflow
+
+```text
+Dataset
+   ↓
+Data Cleaning
+   ↓
+Exploratory Data Analysis
+   ↓
+Feature Engineering
+   ↓
+Train-Test Split
+   ↓
+Regression Models
+   ↓
+Classification Models
+   ↓
+Model Evaluation
+   ↓
+Save Trained Models
+   ↓
+Streamlit Application
+   ↓
+Deployment
+
+------
 
 ## Machine Learning Models
 
@@ -88,10 +143,22 @@ The project follows a complete machine learning workflow including data preproce
 
 ---
 
+🌐 Streamlit Application
+
+The project includes an interactive Streamlit application where users can enter house details and receive:
+
+- Predicted house price
+- Predicted price category
+
+-----
+
 ## Project Structure
 
-```text
 House-Price-Prediction/
+│
+├── app.py
+├── README.md
+├── requirements.txt
 │
 ├── data/
 │   └── house_prices.csv
@@ -100,8 +167,23 @@ House-Price-Prediction/
 │   ├── house_price_regression_model.pkl
 │   └── house_price_classification_model.pkl
 │
-├── notebooks/
-│   └── House-Price-Prediction.ipynb
-│
-├── README.md
-└── requirements.txt
+└── notebooks/
+    └── house_price_prediction.ipynb
+
+-----
+
+🔮 Future Improvements
+Hyperparameter tuning
+Cross-validation
+More advanced regression models
+Improved feature engineering
+Better handling of price-category thresholds
+Additional interactive visualizations
+Model monitoring
+
+-----
+
+👩‍💻 Author
+Tanushree Sapkale
+
+Computer Engineering Student
