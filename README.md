@@ -1,5 +1,9 @@
 # House Price Prediction & Classification
 
+## Live Demo
+
+[Try the House Price Prediction App](https://house-price-prediction-cbhuhbafuvy4yq2ryzhzht.streamlit.app)
+
 ## Project Overview
 
 This project uses machine learning to analyze house prices and build two predictive systems:
@@ -101,8 +105,3 @@ House-Price-Prediction/
 │
 ├── README.md
 └── requirements.txt
-
-
-## Live Demo
-
-[Try the House Price Prediction App](https://house-price-prediction-cbhuhbafuvy4yq2ryzhzht.streamlit.app/~/+/#house-price-prediction-and-classification)
