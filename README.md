@@ -152,6 +152,7 @@ The project includes an interactive Streamlit application where users can enter 
 
 -----
 
+```markdown
 ## 📸 Application & Analysis Screenshots
 
 ### Streamlit Application
