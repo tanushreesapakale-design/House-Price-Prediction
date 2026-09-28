@@ -150,9 +150,9 @@ The project includes an interactive Streamlit application where users can enter 
 - Predicted house price
 - Predicted price category
 
+```markdown
 -----
 
-```markdown
 ## 📸 Application & Analysis Screenshots
 
 ### Streamlit Application
