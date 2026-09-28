@@ -152,6 +152,26 @@ The project includes an interactive Streamlit application where users can enter 
 
 -----
 
+## 📸 Application & Analysis Screenshots
+
+### Streamlit Application
+
+![Streamlit App](screenshots/streamlit_app.png)
+
+### Prediction Result
+
+![Prediction Result](screenshots/prediction_result.png)
+
+### Price Distribution
+
+![Price Distribution](screenshots/price_distribution.png)
+
+### Living Area vs Price
+
+![Living Area vs Price](screenshots/sqft_vs_price.png)
+
+-----
+
 ## Project Structure
 
 House-Price-Prediction/
