@@ -150,27 +150,6 @@ The project includes an interactive Streamlit application where users can enter 
 - Predicted house price
 - Predicted price category
 
-```markdown
------
-
-## 📸 Application & Analysis Screenshots
-
-### Streamlit Application
-
-![Streamlit App](screenshots/streamlit_app.png)
-
-### Prediction Result
-
-![Prediction Result](screenshots/prediction_result.png)
-
-### Price Distribution
-
-![Price Distribution](screenshots/price_distribution.png)
-
-### Living Area vs Price
-
-![Living Area vs Price](screenshots/sqft_vs_price.png)
-
 -----
 
 ## Project Structure
@@ -188,9 +167,14 @@ House-Price-Prediction/
 │   ├── house_price_regression_model.pkl
 │   └── house_price_classification_model.pkl
 │
-└── notebooks/
-    └── house_price_prediction.ipynb
-
+├── notebooks/
+│   └── house_price_prediction.ipynb
+│
+└── screenshots/
+    ├── streamlit_app.png
+    ├── prediction_result.png
+    ├── price_distribution.png
+    └── sqft_vs_price.png
 -----
 
 🔮 Future Improvements
